@@ -138,3 +138,4 @@ with output_col:
             caption="Your diamond sparkles bright!",
             use_container_width=True
         )
+
